@@ -1,3 +1,9 @@
 <html>
-<body></body>
+	<head>
+	<title>GIT 수업</title>
+	</head>
+	<ul>
+	</ul>
+<body>
+</body>
 </html>
