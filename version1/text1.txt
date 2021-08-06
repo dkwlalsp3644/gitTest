@@ -5,4 +5,5 @@
 <body>깃 병합 테스트 를 합니다</body>
 <body>깃 병합 테스트 수정</body>
 <li>충돌최소화<li>
+<li>원격저장소<li>
 </html>
