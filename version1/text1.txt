@@ -2,5 +2,5 @@
 <head>
 <title>git</title>
 </head>
-<body>깃 병합 테스튼</body>
+<body>깃 병합 테스트 를 합니다</body>
 </html>
